@@ -3,11 +3,27 @@
 서로 다른 언어(Java, Python)를 활용하여 매주 꾸준히 공부하고 기록하는 스터디 레포지토리입니다.
 
 ### 👨‍💻 스터디 멤버
+<table>
+ <tr>
+    <td align="center"><a href="https://github.com/eunjaeya"><img src="https://avatars.githubusercontent.com/eunjaeya" width="120px;" alt=""></td>
+    <td align="center"><a href="https://github.com/fnqleh3303-jpg"><img src="https://avatars.githubusercontent.com/fnqleh3303-jpg" width="120px;" alt=""></td>
+    <td align="center"><a href="https://github.com/bada0310"><img src="https://avatars.githubusercontent.com/bada0310" width="120px;" alt=""></td>
+   
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/eunjaeya"><b>이은재</b></td>
+    <td align="center"><a href="https://github.com/fnqleh3303-jpg"><b>양은하</b></td>
+    <td align="center"><a href="https://github.com/bada0310"><b>박성은</b></td>
 
-| <img src="https://github.com/github.png" width="100" height="100"> | <img src="https://github.com/github.png" width="100" height="100"> | <img src="https://github.com/github.png" width="100" height="100"> |
-| :---: | :---: | :---: |
-| [이은재](https://github.com/fnqleh3303-jpg) | [양은하](https://github.com/eunjaeya) | [박성은](https://github.com/bada0310) |
-| <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> | <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> |
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></td>
+    <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
+
+  </tr>
+
+</table>
 
 ## 🎯 우리의 스터디 목표🌱
 
